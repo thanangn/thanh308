@@ -1,0 +1,13 @@
+C:\Users\thanh\Desktop\GOGOGO\bin\Debug\netcoreapp3.1\GOGOGO.exe
+C:\Users\thanh\Desktop\GOGOGO\bin\Debug\netcoreapp3.1\GOGOGO.deps.json
+C:\Users\thanh\Desktop\GOGOGO\bin\Debug\netcoreapp3.1\GOGOGO.runtimeconfig.json
+C:\Users\thanh\Desktop\GOGOGO\bin\Debug\netcoreapp3.1\GOGOGO.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\GOGOGO\bin\Debug\netcoreapp3.1\GOGOGO.dll
+C:\Users\thanh\Desktop\GOGOGO\bin\Debug\netcoreapp3.1\GOGOGO.pdb
+C:\Users\thanh\Desktop\GOGOGO\obj\Debug\netcoreapp3.1\GOGOGO.csprojAssemblyReference.cache
+C:\Users\thanh\Desktop\GOGOGO\obj\Debug\netcoreapp3.1\GOGOGO.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\GOGOGO\obj\Debug\netcoreapp3.1\GOGOGO.AssemblyInfo.cs
+C:\Users\thanh\Desktop\GOGOGO\obj\Debug\netcoreapp3.1\GOGOGO.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\GOGOGO\obj\Debug\netcoreapp3.1\GOGOGO.dll
+C:\Users\thanh\Desktop\GOGOGO\obj\Debug\netcoreapp3.1\GOGOGO.pdb
+C:\Users\thanh\Desktop\GOGOGO\obj\Debug\netcoreapp3.1\GOGOGO.genruntimeconfig.cache
